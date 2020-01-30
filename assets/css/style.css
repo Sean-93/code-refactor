@@ -57,7 +57,7 @@ a {
 p {
     font-size: 16px;
 }
-/*This class pertains to the large image in center of page; this is technically a background image.*/
+/*This class pertains to the large image in center of page; it also links the image in CSS; this is technically a background image.*/
 
 .hero {
     height: 800px;
@@ -120,21 +120,21 @@ p {
     color: #ffffff;
 }
 
-/*This class is only for the "Lead Generation" figure text.*/
+/*This class is only for the "Lead Generation" figure header.*/
 
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*This class is only for the "Brand Awareness" figure text.*/
+/*This class is only for the "Brand Awareness" figure header.*/
 
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*This class is only for the "Cost Management" figure text.*/
+/*This class is only for the "Cost Management" figure header.*/
 
 .benefit-cost h3 {
     margin-bottom: 10px;
@@ -167,6 +167,8 @@ p {
     max-width: 150px;
 }
 
+/*This class is for the specific article for "Search Engine Optimization."*/
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -175,6 +177,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+
+/*This class is for the specific article for "Online Reputation Management."*/
 
 .online-reputation-management {
     margin-bottom: 20px;
@@ -185,6 +190,8 @@ p {
     color: #ffffff;
 }
 
+/*This class is for the specific article for "Social Media Marketing."*/
+
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -194,32 +201,48 @@ p {
     color: #ffffff;
 }
 
+/*This class is for the image in the specific article for "Search Engine Optimization."*/
+
 .search-engine-optimization img {
     max-height: 200px;
 }
+
+
+/*This class is for the image in the specific article for "Online Reputation Management."*/
 
 .online-reputation-management img {
     max-height: 200px;
 }
 
+
+/*This class is for the image in the specific article for "Social Media Marketing."*/
+
 .social-media-marketing img {
     max-height: 200px;
 }
+
+/*This class is for the header in the specific article for "Social Media Marketing."*/
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*This class is for the header in the specific article for "Online Reputation Management."*/
+
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*This class is for the header in the specific article for "Social Media Marketing."*/
+
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*This is the class for the footer*/
 
 .footer {
     padding: 30px;
