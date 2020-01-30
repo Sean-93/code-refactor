@@ -11,3 +11,5 @@
 #### -Added descriptive alt attributes to images linked in html file
 #### -Fixed broken link for search-engine-optimization (was missing id)
 #### -Added in semantic elements
+#### -Included descriptive comments in HTML + CSS
+
