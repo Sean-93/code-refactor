@@ -1,9 +1,13 @@
 # code-refactor
 ## This is the first homework assignment.
 
-### __Here is a list of changes made to the site:__
+#### Horiseon SEO is a web-based marketing startup.
+#### They needed to make their site more accessible.
+#### The website itself also needed slight debugging and optimization.
 
-## -Changed title of site to "Horiseon SEO"
-## -Added descriptive alt attributes to images linked in html file
-## -Fixed broken link for search-engine-optimization (was missing id)
--
+## __Here is a list of changes made to the site:__
+
+#### -Changed title of site to "Horiseon SEO"
+#### -Added descriptive alt attributes to images linked in html file
+#### -Fixed broken link for search-engine-optimization (was missing id)
+#### -Added in semantic elements
