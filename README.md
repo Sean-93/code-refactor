@@ -13,3 +13,4 @@
 #### -Added in semantic elements
 #### -Included descriptive comments in HTML + CSS
 
+#### Here is the link to the page: https://sean-93.github.io/code-refactor/
